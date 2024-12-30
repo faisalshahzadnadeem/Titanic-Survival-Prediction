@@ -1,7 +1,5 @@
 # Titanic-Survival-Prediction
 
-# Titanic Survival Prediction
-
 This repository contains code for predicting the survival of passengers on the Titanic using various machine learning classifiers. The dataset used is the Titanic dataset from Kaggle.
 
 ## Table of Contents
